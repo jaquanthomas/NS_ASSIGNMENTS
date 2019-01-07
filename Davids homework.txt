@@ -1,5 +1,5 @@
 1.SELECT * FROM Customers
-WHERE Country='Germany' AND City='Berlin'
+WHERE Country='Germany' AND City='Berlin.'
 1
 
 2.SELECT * FROM Customers
@@ -84,7 +84,7 @@ WHERE NOT Country='Germany'
 
 19.SELECT * 
 FROM Customers
-WHERE Country='Germany' AND (City='Mannheim' OR City='München')
+WHERE Country='Germany' AND (City='Mannheim' OR City='MÃ¼nchen')
 2
 
 20.SELECT * 
